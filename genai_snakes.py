@@ -1,4 +1,4 @@
-%%writefile genai_snakes.py
+
 import streamlit as st
 import random
 import matplotlib.pyplot as plt
